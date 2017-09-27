@@ -1,0 +1,13 @@
+
+th,td,tr{	padding:10px 20px;}
+th{min-width:60px;}
+.table-striped:nth-of-type(odd){
+	background-color: #efefef;
+}
+.table-striped:nth-of-type(even){
+	background-color: #edeff2;
+}
+.container{
+	background-color:#c5e0e5;
+	padding-top:10px;			
+}
